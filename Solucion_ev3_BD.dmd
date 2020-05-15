@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Solucion_ev3_BD" id="483E74B9-2A28-C6A5-BA51-C04382201989" version="3.5">
+<createdBy>Alumno</createdBy>
+<createdTime>2020-05-05 01:04:22 UTC</createdTime>
+<ownerDesignName>Solucion_ev3_BD</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>483E74B9-2A28-C6A5-BA51-C04382201989</designId>
+</OSDM_Design>
